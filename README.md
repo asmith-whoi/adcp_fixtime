@@ -20,6 +20,6 @@ To correct dates and times in an ADCP binary file (for instance, if the instrume
 
 ## Etc
 
-Find this repository on [github](Github).
+Find this repository on [GitHub][github].
 
 [github]:https://github.com/asmith-whoi/adcp_fixtime
